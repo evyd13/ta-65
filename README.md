@@ -54,4 +54,4 @@ First attempt at compatibility with the M65-a (but unsuccesful; PCB too wide)
   Change daughterboard connector to fit the Unified Daughterboard specification. Probably nothing else.
 
 - ### Rev 4 (e.a. feb 2022)
-  Mostly redone routing, added solder header for pin B7 (free pin), moved daughterboard connector, made PCB outline somewhat prettier, changed WS2812B LEDs to WS281**3**B LEDs.
+  Mostly redone routing, added solder header for pin B7 (free pin), moved daughterboard connector, made PCB outline somewhat prettier, changed WS2812B LEDs to WS281**3**B LEDs. Also the first the release as an open source hardware project.
